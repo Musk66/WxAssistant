@@ -6,7 +6,7 @@
 
 目前功能为自动抢红包、切换账号、修改运动步数、修改定位的经纬度。
 
-/Users/tiger/Desktop/01.png  /Users/tiger/Desktop/03.png
+
 
 使用CaptainHook的方式下钩子。
 
