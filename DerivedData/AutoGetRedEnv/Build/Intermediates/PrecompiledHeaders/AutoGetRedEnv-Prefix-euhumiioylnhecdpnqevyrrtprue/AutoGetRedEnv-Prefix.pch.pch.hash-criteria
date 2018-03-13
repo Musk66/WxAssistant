@@ -1,0 +1,26 @@
+-x
+objective-c++
+-arch
+arm64
+-gmodules
+-fpascal-strings
+-Os
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.2.sdk
+-miphoneos-version-min=9.2
+-g
+-fvisibility-inlines-hidden
+-I/Users/tiger/Downloads/其他1/代码1/AutoGetRedEnv/DerivedData/AutoGetRedEnv/Build/Products/Release-iphoneos/include
+-I/opt/iOSOpenDev/include
+-I/opt/iOSOpenDev/include/ActionMenu
+-I/opt/iOSOpenDev/include/AssistantExtensions
+-I/opt/iOSOpenDev/include/CaptainHook
+-I/opt/iOSOpenDev/include/libactivator
+-I/opt/iOSOpenDev/include/logos
+-F/Users/tiger/Downloads/其他1/代码1/AutoGetRedEnv/DerivedData/AutoGetRedEnv/Build/Products/Release-iphoneos
+-F/opt/iOSOpenDev/frameworks
+-F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.2.sdk/System/Library/PrivateFrameworks
+aarch64-apple-darwin15.4.0
+"4.2.1 Compatible Apple LLVM 7.0.2 (clang-700.1.81)"
+SDK_PRODUCT_BUILD_VERSION=13C75
+13C75
