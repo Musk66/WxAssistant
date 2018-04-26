@@ -16,4 +16,5 @@
 切换账号界面：
 通过在最近登录界面增加切换账号按钮，登录时缓存账号的方式，将缓存的账号显示到列表中，点击某个账号可以进行快速切换。
 
-
+<br>
+![image](https://github.com/Musk66/WxAssistant/blob/master/01.png)
